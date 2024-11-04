@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aravindgiddigani
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Full Stack Java Web Development
-- 📫 How to reach me 9030549324 / giddiganiaravind@gmail.com
+- 📫 Reach me on 9030549324 / giddiganiaravind@gmail.com
 
 
 <!---
